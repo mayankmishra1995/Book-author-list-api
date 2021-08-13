@@ -51,3 +51,4 @@ Bundle it
 Setup the db
 Boost up your server
 Seed the db for inbuilt data.(optional)
+
