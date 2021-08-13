@@ -52,3 +52,5 @@ Setup the db
 Boost up your server
 Seed the db for inbuilt data.(optional)
 
+Get the Api
+http://localhost:3000/publisheds
